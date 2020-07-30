@@ -1,0 +1,27 @@
+h1 {
+    background-color :red
+ }
+
+
+.header {
+    background-color: sandybrown;
+    display : flex;
+    justify-content:space-between ;
+}
+
+body {
+background-color: lightslategrey;
+}
+
+.images{
+    display : flex;
+    justify-content: space-evenly;
+}
+
+.media{
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue;
+
+}
+ 
